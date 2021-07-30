@@ -1,3 +1,3 @@
 # trappist-1
-MEAN Project
+MEAN Project. 
  
